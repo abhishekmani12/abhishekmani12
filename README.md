@@ -25,7 +25,7 @@ I am also interested in cloud computing, VM's and building, deploying and mainta
 - ⚡ Ready to share my knowledge on ML libraries, Algorithms, Pytorch Framework and Deep Learning.  
   
 
-- 🔭 I’m currently working on [Visual Attendance Tracking](https://github.com/abhishekmani12/Visual_Attendance_Tracking)  
+- 🔭 I’m currently working on building a mini ChatGPT
   
 
 - 🌱 I’m currently learning about Transformers, Reinforcement Learning, MongoDB and statsmodels  
