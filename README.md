@@ -67,11 +67,11 @@ I am also interested in cloud computing, VM's and building, deploying and mainta
 
 <table><tr><td valign="left" width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekmani12&theme=algolia" style="width: 100%" align="left" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekmani12" style="width: 100%" align="left" />
 
 </td><td valign="right" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmani12&layout=compact&theme=algolia" align="right" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmani12&layout=compact" align="right" style="width: 100%" />
 
 </td></tr></table> 
 </div>
