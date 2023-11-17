@@ -12,7 +12,7 @@
   
 
 ### About me:  
-I'm a 3rd year CSE student who is interested in the field of AI and its subsets like Computer Vision and NLP. I am fundamentally strong with Machine Learning and Deep Learning Algorithms and their concepts.
+I'm a 4th year CSE student who is interested in the field of AI and its subsets like Computer Vision and NLP. I am fundamentally strong with Machine Learning and Deep Learning Algorithms and their concepts.
 
 
 I enjoy building and iterating models to achieve the best performance and love collecting, analyzing and manipulating data of any form.
